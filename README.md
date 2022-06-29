@@ -3,10 +3,9 @@
 
 
 <h1 align="center"> # 7daysofcode-github </h1>
-#7DaysofCode-GitHub
+<br><br>
 Este repositório foi criado como parte dos exercícios do <em>#7DaysofCode</em> da Alura.
 <br><br><br><br>
-
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
