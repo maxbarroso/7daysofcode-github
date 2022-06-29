@@ -1,4 +1,5 @@
-![7daysgithub](https://user-images.githubusercontent.com/13010676/176439092-364158c6-747c-4fde-9375-3ae9635c4462.png)
+![githublogo](https://user-images.githubusercontent.com/13010676/176439709-51eb1a42-c1bf-443f-9d96-2d36f8c19b4a.png)
+
 
 <h1 align="center"> # 7daysofcode-github </h1>
 #7DaysofCode-GitHub
