@@ -6,6 +6,8 @@
 <br><br>
 Este repositório foi criado como parte dos exercícios do <em>#7DaysofCode</em> da Alura.
 <br><br><br><br>
+Dia 3 do desafio completado com sucesso.
+<br> <br><br>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
